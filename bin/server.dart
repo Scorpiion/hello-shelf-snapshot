@@ -28,6 +28,6 @@ void main(List<String> args) {
 }
 
 shelf.Response _echoRequest(shelf.Request request) {
-  return new shelf.Response.ok('Hello World from Shelf!!!!!!');
+  return new shelf.Response.ok('Hello World from Shelf!');
 }
 
