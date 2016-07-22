@@ -1,6 +1,4 @@
 runtime: dart
-version: latest
-
 start: dart bin/server.snapshot
 
 
